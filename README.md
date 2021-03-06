@@ -1,2 +1,2 @@
-# PTTpy
-client-server-like ptt application for ham radio CAT control
+# ramon
+QO-100 car remote control
